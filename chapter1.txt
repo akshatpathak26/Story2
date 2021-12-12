@@ -1,0 +1,1 @@
+this is to show how merging is done thru github itself rather than cli.
